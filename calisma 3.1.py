@@ -31,8 +31,5 @@ cv2.imshow("Kedi Resmi Original", resim)
 # cv2.imshow("Kedi Resmi Red", b)
 #cv2.imshow("Kedi Merge Edilmis Resim", yeni_resim)
 
-
-
-
 cv2.waitKey(0)
 cv2.destroyAllWindows()
